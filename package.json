@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.0",
+    "jest": "^26.0.0",
     "supertest": "^6.2.3"
   }
 }
